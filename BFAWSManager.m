@@ -1,5 +1,5 @@
 //
-//  BFAWSManagerClass.m
+//  BFAWSManager.m
 //
 //  Created by Matthew Parker on 12/18/12.
 //  Copyright (c) 2012 BitFountain.
