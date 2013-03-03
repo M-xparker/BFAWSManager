@@ -21,9 +21,9 @@
 //OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 //THE SOFTWARE.
 //
-#define kAWSAccessKey @"AKIAJZKKHSBMTOCKBVOA"
-#define kAWSSecretKey @"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"
-#define kBucketName @"IntroiOS"
+#define kAWSAccessKey @"Insert Key Here"
+#define kAWSSecretKey @"Insert Key Here"
+#define kBucketName @"Insert Bucket Name"
 
 #import "BFAWSManager.h"
 
